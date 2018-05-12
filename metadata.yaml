@@ -1,0 +1,30 @@
+_repo: Poems-of-Rural-Life-in-the-Dorset-Dialect_21785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnes, William
+    birthdate: 1801
+    deathdate: 1886
+    gutenberg_agent_id: '24887'
+    url: http://www.gutenberg.org/2009/agents/24887
+description: Vol. 1. First collection -- v. 2. Second collection -- v. 3. Third collection.
+gutenberg_issued: '2007-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dorset (England) -- Languages -- Dictionaries'
+- !lcsh 'English language -- Dialects -- England -- Dorset -- Texts'
+- !lcc 'PR'
+- !lcsh 'Dialect poetry, English -- England -- Dorset'
+- !lcsh 'Dorset (England) -- Poetry'
+- !lcsh 'Country life -- Poetry'
+title: Poems of Rural Life in the Dorset Dialect
+url: http://www.gutenberg.org/ebooks/21785
